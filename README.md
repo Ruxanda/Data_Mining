@@ -15,4 +15,14 @@
    * Graphic skills
       * Scatterplots, lineplots, barplots
 
+## *PROJECT 4:*
+
+   * APPLY functions:
+      * apply()
+      * lapply()
+      * sapply()
+      * mapply()
+   * Writing functions:
+      * Covariance matrix
+
 
