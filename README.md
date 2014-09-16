@@ -12,4 +12,7 @@
 
 ## *PROJECT 3:*
 
+   * Graphic skills
+      * Scatterplots, lineplots, barplots
+
 
