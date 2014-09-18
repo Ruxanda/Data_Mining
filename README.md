@@ -30,4 +30,10 @@
    * Bootstrap
    * Plot confidence intervals based on bootstrap replication
 
+## *PROJECT 6:*
+
+   * Regular Expressions
+      * grep()
+      * gregexpr()
+      * gsub()
 
