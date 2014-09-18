@@ -25,4 +25,9 @@
    * Writing functions:
       * Covariance matrix
 
+## *PROJECT 5:*
+
+   * Bootstrap
+   * Plot confidence intervals based on bootstrap replication
+
 
