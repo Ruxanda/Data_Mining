@@ -46,3 +46,14 @@
       * SnowballC
       * tm
 
+## *PROJECT 8:*
+
+   * XML package
+      * xmlParse()
+      * xmlRoot()
+      * xpathSApply()
+      * xmlGetAttr()
+      * xmlToList()
+      * getNodeSet()
+      * xmlSize()
+   * Create KML document in R
