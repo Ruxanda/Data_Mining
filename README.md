@@ -65,3 +65,7 @@
 ## *PROJECT 9:*
 
    * Plotting Time Series Data
+
+## *NOTES:*
+
+   * notes and practice code for all the projects
