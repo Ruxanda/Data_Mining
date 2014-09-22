@@ -37,3 +37,12 @@
       * gregexpr()
       * gsub()
 
+## *PROJECT 7:*
+
+   * Shell scripts
+   * readlines()
+   * packages:
+      * Snowball
+      * SnowballC
+      * tm
+
