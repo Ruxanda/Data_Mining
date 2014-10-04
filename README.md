@@ -56,6 +56,7 @@
       * xmlToList()
       * getNodeSet()
       * xmlSize()
+
    * Create KML document in R
       * newXMLDoc()
       * newXMLNode()
@@ -68,4 +69,4 @@
 
 ## *NOTES:*
 
-   * notes and practice code for all the projects
+   * Notes and practice code for all the projects
