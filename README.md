@@ -28,7 +28,7 @@
 ## *PROJECT 5:*
 
    * Bootstrap
-   * Plot confidence intervals based on bootstrap replication
+   * Plot Confidence Intervals based on Bootstrap Replication with different sample sizes
 
 ## *PROJECT 6:*
 
