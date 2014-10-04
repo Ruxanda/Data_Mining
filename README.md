@@ -13,7 +13,7 @@
 ## *PROJECT 3:*
 
    * Graphic skills
-      * Scatterplots, lineplots, barplots
+      * Scatter Plots, Line Charts, Bar Plots
 
 ## *PROJECT 4:*
 
